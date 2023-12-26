@@ -15,10 +15,12 @@ Aplicacion pomodoro creada con Expo en React native
 ---
 
 # Instalacion
+```
 > git clone https://github.com/tomassale/Pomodoro
 > cd Pomodoro
 > npx install
 > npx expo start
+```
 ---
 ## Tomás Javier Sale
 * Linkedin: https://www.linkedin.com/in/tom%C3%A1s-sale-147077226/
