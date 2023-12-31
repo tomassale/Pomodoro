@@ -13,12 +13,21 @@ Aplicacion pomodoro creada con Expo en React native
 * react-native: 0.72.6
 * expo-av: ~13.4.1
 ---
-
-## Instalacion
+## Instalación
+1. Clonar Repositorio
 ```
 > git clone https://github.com/tomassale/Pomodoro
-> cd Pomodoro
+```
+2. Posicionarse
+```
+> cd app
+```
+3. Instalacion
+```
 > npx install
+```
+4.Iniciar
+```
 > npx expo start
 ```
 ---
